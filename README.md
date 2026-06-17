@@ -1,10 +1,10 @@
 # Sebastian-Uceta-CV# Sebastian Uceta Báez
-**Santo Domingo, República Dominicana** | `tu-correo@email.com` | `+1 (XXX) XXX-XXXX`  
+**Santo Domingo, República Dominicana** | `sebastianuceta5gmail.com.com` | `+1 (809) 208 1908`  
 [LinkedIn Profile](https://linkedin.com/in/sebastian-uceta-0a042b282)
 
 ---
 
-## 🎓 Educación
+##  Educación
 
 ### **Instituto Tecnológico de Santo Domingo (INTEC)**
 *Enfoque en Ingeniería Mecatrónica* | **2026 – Presente**
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Experiencia en Proyectos Técnicos
+##  Experiencia en Proyectos Técnicos
 
 ### **Sistema IoT de Monitoreo Automatizado de Fluidos**
 *Desarrollador Independiente (Mecatrónica / IoT)* | **Junio 2026**
@@ -26,7 +26,7 @@
 
 ---
 
-## 💼 Experiencia Profesional
+##  Experiencia Profesional
 
 ### **TecnoMec Academy**
 *Instructor Técnico & Consultor de Soporte* | **Junio 2026 – Presente**
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Formación Complementaria y Liderazgo
+##  Formación Complementaria y Liderazgo
 
 ### **Fundación Impulsa Tu Liderazgo RD**
 *Diplomado "Yo Emprendedor"* | **2025**
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 Habilidades Técnicas
+##  Habilidades Técnicas
 
 * **Hardware & IoT:** ESP32, Arduino, Microcontroladores, Sensores Ultrasónicos, Integración de Sistemas Físicos.
 * **Software & TI:** Diagnóstico de Sistemas, Administración de Redes, Configuración de Entornos (Linux Mint, Windows), C++ nativo.
